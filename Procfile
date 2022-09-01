@@ -1,0 +1,1 @@
+web: gunicorn django_pbp_lab0.wsgi --log-file -
