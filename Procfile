@@ -1,1 +1,1 @@
-web: gunicorn django_pbp_lab0.wsgi --log-file -
+web: gunicorn alfredofirstpbplab.wsgi --log-file -
